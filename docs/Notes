@@ -1,0 +1,58 @@
+Character attributes:
+
+Will NOT include Goals
+
+Moral Code
+
+Ability Scores:
+	4d6
+	Discard lowest of 4 rolls
+	6 times
+	May assign to attributes freely
+	Must have at least one 9 or higher. If no ability score is at least 9:
+		Roll 6 scores again, or
+		Raise lowest score to 18
+		
+Ability Modifiers
+
+Archetypes:
+	Will include Archetypal Ability
+	Will include Archetypal Saving Roll
+	Survival Potential is currently included
+	Attack Bonus is currently included
+	Skills are debatable
+	Weapons are debatable
+	Will include starting money
+	
+	Must have at least a 9 in Archetypal Ability to choose that Archetype
+	If 16 or higher in Archtyepal Ability, start with 200 experience
+	
+	Warrior:
+		STR >= 9
+			If STR >= 16, XP +200
+		Survival Points = 10 + END Major
+		Weapons = 4 + CHR Minor
+		Skills = 3 + INT Major + CHR Minor + WIS Minor
+		Specialty = 1
+		Moral Code
+		Starting Money = 4d6 x 10 + INT Major + CHR Major + WIS Major
+		Combat Bonus
+		
+	Thief:
+		AGI >= 9
+			If AGI >= 16, XP +200
+		Survival Points = 6 + END Major
+		Weapons = 2 + CHR Minor
+		Skills = 5 + INT Major + CHR Minor + WIS Minor
+		Specialty = 1
+		Moral Code
+		Starting Money = 2d6 x 10 + INT Major + CHR Major + WIS Major
+		Theiving Skills = 12
+		
+
+
+
+
+Create Character:
+	Include choosing avatar for combat mode
+	
