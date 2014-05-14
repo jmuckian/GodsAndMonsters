@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<thief_skills>
+        <skill>Backstab
+                <ability>Agility</ability>
+                <base>-6</base>
+                <major>Intelligence</major>
+                <time>1 action</time>
+                <description>If the thief can attack an opponent with the opponent</description>
+                <description>remaining unaware of the attack, the thief can carefully</description>
+                <description>choose their method so as to kill or incapacitate their</description>
+                <description>opponent. While called 'backstab', it does not require</description>
+                <description>coming up from behind. If the thief can somehow manage</description>
+                <description>to come up from the front without being detected, a</description>
+                <description>backstab may be performed in place of a normal attack.</description>
+                <description>On a successful backstab, the thief does damage as</description>
+                <description>normal for their weapon. Up to the number of points</description>
+                <description>equal to a third of their backstab points (round down)</description>
+                <description>will be directly applied to the target's injury points.</description>
+                <description>(The rest go to survival points as normal.) The target's</description>
+                <description>armor or other defenses apply, and situational bonuses</description>
+                <description>also apply, to the thief's backstab roll as normal for</description>
+                <description>an attack roll. A thief is more vulnerable after a</description>
+                <description>backstab attempt: during the next round, attacks against</description>
+                <description>the thief are at a bonus of 2. Note that victims may be</description>
+                <description>surprised by the backstab attack or attempt, and if they</description>
+                <description>gained injury points the surprise roll will be at a</description>
+                <description>penalty.</description>
+        </skill>
+        <skill>Climb Walls
+                <ability>Agility</ability>
+                <base>-3</base>
+                <major>Strength</major>
+                <time>1/3 move</time>
+                <description>The character can scale walls fairly easily, usually to</description>
+                <description>gain access to walled-in courtyards or to buildings. The</description>
+                <description>character can climb normal, relatively smooth, stone</description>
+                <description>walls almost as easily (and as quietly) as if they were</description>
+                <description>walking, though at a lower movement. Some special</description>
+                <description>surfaces, such as glass or obsidian, will present</description>
+                <description>penalties to the "Climb Walls" roll, as well as reduce</description>
+                <description>the character's movement rate. Easier walls, such as log</description>
+                <description>walls with many handholds, will present bonuses.</description>
+        </skill>
+        <skill>Cram
+                <ability>Intelligence</ability>
+                <base>-3</base>
+                <major>Charisma</major>
+                <time>1/2 day</time>
+                <description>The character can temporarily learn a new skill. After</description>
+                <description>cramming, the character may use the skill for the next</description>
+                <description>full day before forgetting it. If the character wishes</description>
+                <description>to retain the skill on subsequent days, the player must</description>
+                <description>make a successful cram roll each day. For each skill</description>
+                <description>the character currently has retained there is a penalty</description>
+                <description>of one on concurrent attempts to cram or retain.</description>
+        </skill>
+        <skill>Disguise
+                <ability>Charisma</ability>
+                <base>-6</base>
+                <major>Wisdom</major>
+                <time>special</time>
+                <description>The character is a master of disguise and mimicry. The</description>
+                <description>thief may mimic a human or humanoid creature of either</description>
+                <description>gender, within a height of three inches shorter or five</description>
+                <description>inches taller than the character. For every inch beyond</description>
+                <description>that, there is a penalty of one to the disguise roll.</description>
+                <description>When attempting to perpetrate a disguise on a non-player</description>
+                <description>group of one or more people, the group's leader can make</description>
+                <description>a perception roll, with a penalty equal to half the</description>
+                <description>amount the thief made their disguise roll by. There is a</description>
+                <description>bonus of one each if the thief is mimicking another</description>
+                <description>archetype, species, or gender. Player characters may</description>
+                <description>take their own Perception roll to penetrate a disguise,</description>
+                <description>if they request one, and circumstances may afford</description>
+                <description>additional opportunities for "victims" to penetrate the</description>
+                <description>disguise. It takes ten minutes to an hour to create a</description>
+                <description>disguise, depending on the materials available, and</description>
+                <description>often much longer to research a disguise.</description>
+        </skill>
+        <skill>Hide
+                <ability>Agility</ability>
+                <base>-8</base>
+                <major>Charisma</major>
+                <time>1 round</time>
+                <description>The character may hide using shadows, corners, and other</description>
+                <description>means as the opportunity presents itself. Obviously, the</description>
+                <description>thief will have more trouble hiding in well lit areas</description>
+                <description>with no cover than in dark areas with lots of large</description>
+                <description>pieces of junk. In the former case, there will be a</description>
+                <description>penalty to the roll. In the latter case, a bonus.</description>
+                <description>Characters or creatures looking for the hidden thief</description>
+                <description>will have a penalty on their perception roll of half the</description>
+                <description>amount the thief succeeded by on the "Hide" roll.</description>
+        </skill>
+        <skill>Forgery
+                <ability>Wisdom</ability>
+                <base>-5</base>
+                <major>Agility</major>
+                <time>special</time>
+                <description>The character can duplicate another person's</description>
+                <description>handwriting. It requires studying that person's</description>
+                <description>handwriting. Someone familiar with the person's</description>
+                <description>handwriting is allowed a Perception roll, with a</description>
+                <description>penalty equal to half the amount by which the forger</description>
+                <description>succeeded. Forgery time varies according to the research</description>
+                <description>material available and the amount of copy being forged.</description>
+                <description>It will usually take about a day to study a victim's</description>
+                <description>handwriting, and then four times the time it would</description>
+                <description>normally take to write the item.</description>
+        </skill>
+        <skill>Move Silently
+                <ability>Agility</ability>
+                <base>-7</base>
+                <major>Charisma</major>
+                <time>Move-2</time>
+                <description>The character may move on normal surfaces extremely</description>
+                <description>quietly. The character may move at normal walking speed</description>
+                <description>minus two while remaining silent. Characters or</description>
+                <description>creatures listening for the silent thief will have a</description>
+                <description>penalty on their perception roll of half the amount the</description>
+                <description>thief succeeded by on the "Move Silently" roll.</description>
+        </skill>
+        <skill>Locks and Traps
+                <ability>Intelligence</ability>
+                <base>-7</base>
+                <major>Agility</major>
+                <time>1 round</time>
+                <description>The character may find, disable, or open locks and</description>
+                <description>traps. Finding, picking, and disabling each require a</description>
+                <description>separate roll. A character may be able to find a lock</description>
+                <description>without being able to pick it, for example. In some</description>
+                <description>cases three rolls may be required, as a hidden lock</description>
+                <description>might also be trapped. The player might roll to find the</description>
+                <description>trap, to disable the trap, and to open the lock. If the</description>
+                <description>character wishes a greater chance of success, they may</description>
+                <description>spend extra time on a careful attempt.</description>
+        </skill>
+        <skill>Pick Pockets
+                <ability>Agility</ability>
+                <base>-6</base>
+                <major>Charisma</major>
+                <time>1 round</time>
+                <description>One of the more dangerous thieving skills, as failure</description>
+                <description>often means detection and it is impossible to pick a</description>
+                <description>pocket without being in sword reach! Victims are allowed</description>
+                <description>a Perception roll to detect a successful or unsuccessful</description>
+                <description>"pick pockets" attempt. The thief may make a more</description>
+                <description>conservative attempt, reducing the chance of success but</description>
+                <description>also reducing the chance of being caught: for each</description>
+                <description>penalty point the thief takes on the "pick pockets"</description>
+                <description>roll, the victim has the same penalty on their</description>
+                <description>perception roll.</description>
+        </skill>
+        <skill>Understand Languages
+                <ability>Intelligence</ability>
+                <base>-9</base>
+                <major>Charisma</major>
+                <time>special</time>
+                <description>Thieves run across all sorts of strange things and</description>
+                <description>people, and can often pick up bits and pieces of foreign</description>
+                <description>languages. A successful use of "Understand Languages"</description>
+                <description>does not confer exact understanding of the document or</description>
+                <description>conversation, but only a general understanding. Take the</description>
+                <description>amount the roll was successful by, and multiply by five,</description>
+                <description>for the percentage of specifics the character can glean</description>
+                <description>from the document or conversation. Even at 100%, this</description>
+                <description>means only that the thief understands all of what the</description>
+                <description>document or person is trying to say, not that the thief</description>
+                <description>knows what all of the words in the document specifically</description>
+                <description>mean. This skill generally only works for "modern"</description>
+                <description>languages currently in use somewhere by nations or</description>
+                <description>groups within the thief's sphere of travel or contacts.</description>
+                <description>It usually takes the character about two to four times</description>
+                <description>as long to understand such an unknown language as it</description>
+                <description>would for the character to understand a known language.</description>
+        </skill>
+        <skill>Search
+                <ability>Agility</ability>
+                <base>-6</base>
+                <major>Intelligence</major>
+                <time>5 minutes</time>
+                <description>The character may search for hidden items or listen for</description>
+                <description>faint conversation, such as beyond doors. It takes about</description>
+                <description>five minutes for a normal search of a 3 by 3 yard area.</description>
+                <description>Characters may increase the search time for a careful</description>
+                <description>attempt.</description>
+        </skill>
+        <skill>Tightrope
+                <ability>Agility</ability>
+                <base>-5</base>
+                <major>Strength</major>
+                <time>1/2 move</time>
+                <description>The character may attempt to cross thin wires, lines, or</description>
+                <description>walls. Anywhere that extreme balance is required, the</description>
+                <description>"tightrope" skill may be used. There is a bonus of 2 to</description>
+                <description>the roll if the thin line the character is attempting to</description>
+                <description>cross is firm (such as a wall). If the line the</description>
+                <description>character is attempting to cross is two inches or wider,</description>
+                <description>there is a bonus of 1 to the roll; if four inches or</description>
+                <description>wider, a bonus of 2; if six inches or wider, a bonus of</description>
+                <description>3, etc. High winds might give penalties to the roll. A</description>
+                <description>player might be required to roll again if, for example,</description>
+                <description>their character is hit by a called shot from an arrow or</description>
+                <description>other missile attack.</description>
+        </skill>
+</thief_skills>

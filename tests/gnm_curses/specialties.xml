@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<specialties>
+        <specialty>Alchemical Bonding
+                <prerequisite>
+                        <option>Topical Alchemy</option>
+                        <option>Iconic Alchemy</option>
+                </prerequisite>
+                <requirement>
+                        <requires value="Intelligence">15</requires>
+                        <option>Sorceror</option>
+                        <option>Prophet</option>
+                </requirement>
+        </specialty>
+        <specialty>Animal Companion
+                <requirement>
+                        <requires value="Charisma">15</requires>
+                </requirement>
+                <description>The character has one very special animal for every four</description>
+                <description>levels the character has. The animal will be any natural</description>
+                <description>animal and will be above average in any abilities the</description>
+                <description>animal has: intelligence, charisma, and survival points.</description>
+                <description>For example, a warrior might have a warhorse of</description>
+                <description>exceptional quality as one of their animal companions.</description>
+                <description>The animal has one animal level beyond their normal</description>
+                <description>level as an animal of that type.</description>
+                <description>   </description>
+                <description>If an animal companion dies, the character will likely</description>
+                <description>find another animal companion during the next level.</description>
+        </specialty>
+        <specialty>Animal Form
+                <prerequisite>
+                        <required>Nature Friend</required>
+                </prerequisite>
+                <requirement>
+                        <requires value="Charisma">15</requires>
+                </requirement>
+                <description>The character may change shape into land animal once per</description>
+                <description>day: either a reptile, bird, or mammal. The character</description>
+                <description>regains 1d6 times 10% of survival points lost when</description>
+                <description>changing to the animal form.</description>
+                <description>   </description>
+                <description>The character gains all the new form's abilities,</description>
+                <description>including movement, defense, and attacks. The character</description>
+                <description>may only change to natural forms in size from a wren or</description>
+                <description>snake to a bear.</description>
+        </specialty>
+        <specialty>Arcane Resistence
+                <requirement>
+                        <requires value="Charisma">10</requires>
+                </requirement>
+                <description>The character is especially resistant to magical effects</description>
+                <description>against the character. Characters with 'Arcane</description>
+                <description>Resistance' gain a bonus of two to saving rolls against</description>
+                <description>most spells. This does not affect physical after-effects</description>
+                <description>of a spell, nor things summoned or created by the spell.</description>
+                <description>Thus, the character gains no bonus against a summoned</description>
+                <description>creature, nor against the effects of most Conjuration</description>
+                <description>spells, such as Balls of Fire or Darkness.</description>
+        </specialty>
+        <specialty>Assassinate
+                <requirement>
+                        <requires value="Archetype">Thief</requires>
+                        <requires value="Intelligence">12</requires>
+                        <requires value="Agility">12</requires>
+                        <requires value="Strength">10</requires>
+                        <requires value="Charisma">10</requires>
+                </requirement>
+                <description>The assassin gains access to a new thief skill called</description>
+                <description>assassinate. Assassinate rolls are against Intelligence,</description>
+                <description>with Wisdom as a major contributor and a Base of -1. On</description>
+                <description>a successful backstab, the thief can make an assassinate</description>
+                <description>roll. On a successful assassinate roll, the victim</description>
+                <description>potentially has to face death, regardless of their</description>
+                <description>current survival point total. If the victim's level is</description>
+                <description>less than the victim's current survival points, compare</description>
+                <description>the victim's injury point total to their level, rather</description>
+                <description>than their survival, to determine whether the victim</description>
+                <description>faces the possibility of death.</description>
+        </specialty>
+        <specialty>Blind-Fighting
+                <requirement>
+                        <requires value="Charisma">11</requires>
+                        <requires value="Wisdom">11</requires>
+                </requirement>
+                <description>The character can use sound, touch, and skill to fight</description>
+                <description>without seeing. The character negates one penalty due to</description>
+                <description>an inability to see their target, and may negate an</description>
+                <description>additional penalty for each level since taking</description>
+                <description>Blind-Fighting.</description>
+        </specialty>
+</specialties>

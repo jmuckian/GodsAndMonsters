@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<weapons>
+        <!-- Weapons are structured as follows
+        
+        <weapon>Weapon Name
+                <damage>n, s</damage>
+                <fire actions>n</fire actions>
+                <range>n</range>
+                <hands>n</hands>
+                <bulk>n</bulk>
+                <cost>n</cost>
+                <usage>n</usage>
+                <description>text (56 character limit per tag)</description>
+        </weapon>
+        
+        <damage> n = number of dice, s = number of sides
+        <usage> 0 = for simple, 1 = for basic, 2 = any
+        All other values are direct from table - Page 42
+        -->
+        <weapon>Arquebus (Matchlock)
+                <damage>1, 8</damage>
+                <fire_actions>3</fire_actions>
+                <range>10</range>
+                <hands>2</hands>
+                <bulk>15</bulk>
+                <cost>55</cost>
+                <usage>1</usage>
+                <description>While it eventually came to mean a gun of fine</description>
+                <description>workmanship, originally the arquebus was simply a heavy</description>
+                <description>matchlock. The Arquebus was first heard of in the late</description>
+                <description>fourteenth century, though were much more common in the</description>
+                <description>seventeenth century. The 'matchlock' style of firearm</description>
+                <description>continued to use a match cord to light the powder, but</description>
+                <description>the cord was attached to a mechanism which could lower</description>
+                <description>the lit match to the pan to light the powder. With an</description>
+                <description>assistant to refill the pan and reload, the arquebus</description>
+                <description>rate of fire can be increased to once per two rounds.</description>
+                <description>The Arquebus tends to be about the size of what is today</description>
+                <description>a rifle, although the barrels were not rifled and were</description>
+                <description>thus not nearly as accurate.</description>
+        </weapon>
+        <weapon>Battleaxe
+                <damage>1, 10</damage>
+                <fire_actions>2</fire_actions>
+                <range>10</range>
+                <hands>2</hands>
+                <bulk>20</bulk>
+                <cost>7</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Brass Knuckles
+                <damage>1, 3</damage>
+                <fire_actions>0</fire_actions>
+                <range>0</range>
+                <hands>1</hands>
+                <bulk>1</bulk>
+                <cost>1</cost>
+                <usage>1</usage>
+                <description></description>
+        </weapon>
+        <weapon>Bow
+                <damage>1, 6</damage>
+                <fire_actions>1</fire_actions>
+                <range>20</range>
+                <hands>2</hands>
+                <bulk>8</bulk>
+                <cost>25</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Club
+                <damage>1, 4</damage>
+                <fire_actions>2</fire_actions>
+                <range>2</range>
+                <hands>1</hands>
+                <bulk>6</bulk>
+                <cost>1</cost>
+                <usage>0</usage>
+                <description></description>
+        </weapon>
+        <weapon>Crossbow
+                <damage>1, 6</damage>
+                <fire_actions>2</fire_actions>
+                <range>15</range>
+                <hands>2</hands>
+                <bulk>14</bulk>
+                <cost>35</cost>
+                <usage>1</usage>
+                <description>Where the longbow was the weapon of the yeomanry, the</description>
+                <description>crossbow could be used by anyone. Much like the firearm</description>
+                <description>today, it leveled the military playing field between</description>
+                <description>commoner and knight or other trained soldier. The</description>
+                <description>larger crossbows were more powerful than the longbow,</description>
+                <description>although (at least for hand-carried crossbows) the</description>
+                <description>arrow (called a "bolt" or "quarrel") was much shorter</description>
+                <description>and did not have the range of the longbow. Crossbows</description>
+                <description>also could not be fired as rapidly. Lighter crossbows</description>
+                <description>had to be pulled back and locked by hand, then aimed</description>
+                <description>and fired. Larger crossbows had to be pulled back by</description>
+                <description>foot as well as hand! Crossbows were more difficult</description>
+                <description>than bows to protect from dampness as well.</description>
+                <description>   </description>
+                <description>Crossbows were developed throughout the world, from</description>
+                <description>Europe to China and Japan, to Africa, Burma, and even</description>
+                <description>the Pacific islands.</description>
+                <description>   </description>
+                <description>One advantage of crossbows is that they are easy to use</description>
+                <description>as unmanned traps. Also, an assistant can double the</description>
+                <description>rate of fire of a normal or heavy crossbow if the</description>
+                <description>assistant is also skilled in the crossbow's use and two</description>
+                <description>crossbows are available, by readying one crossbow while</description>
+                <description>the shooter is firing the other.</description>
+        </weapon>
+        <weapon>Dagger
+                <damage>1, 4</damage>
+                <fire_actions>1</fire_actions>
+                <range>3</range>
+                <hands>1</hands>
+                <bulk>2</bulk>
+                <cost>2</cost>
+                <usage>0</usage>
+                <description></description>
+        </weapon>
+        <weapon>Great Sword
+                <damage>2, 6</damage>
+                <fire_actions>2</fire_actions>
+                <range>2</range>
+                <hands>2</hands>
+                <bulk>24</bulk>
+                <cost>40</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Hand Axe
+                <damage>1, 6</damage>
+                <fire_actions>1</fire_actions>
+                <range>3</range>
+                <hands>1</hands>
+                <bulk>10</bulk>
+                <cost>2</cost>
+                <usage>1</usage>
+                <description></description>
+        </weapon>
+        <weapon>Hand Gun
+                <damage>1, 6</damage>
+                <fire_actions>4</fire_actions>
+                <range>8</range>
+                <hands>2</hands>
+                <bulk>10</bulk>
+                <cost>45</cost>
+                <usage>0</usage>
+                <description></description>
+        </weapon>
+        <weapon>Heavy Crossbow
+                <damage>1, 8</damage>
+                <fire_actions>3</fire_actions>
+                <range>25</range>
+                <hands>2</hands>
+                <bulk>20</bulk>
+                <cost>75</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Javelin
+                <damage>1, 4</damage>
+                <fire_actions>1</fire_actions>
+                <range>5</range>
+                <hands>1</hands>
+                <bulk>4</bulk>
+                <cost>1</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Knife
+                <damage>1, 3</damage>
+                <fire_actions>1</fire_actions>
+                <range>3</range>
+                <hands>1</hands>
+                <bulk>2</bulk>
+                <cost>1</cost>
+                <usage>0</usage>
+                <description></description>
+        </weapon>
+        <weapon>Longbow
+                <damage>1, 6</damage>
+                <fire_actions>1</fire_actions>
+                <range>25</range>
+                <hands>2</hands>
+                <bulk>12</bulk>
+                <cost>50</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Long Sword
+                <damage>1, 8</damage>
+                <fire_actions>2</fire_actions>
+                <range>3</range>
+                <hands>1</hands>
+                <bulk>8</bulk>
+                <cost>20</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Mace
+                <damage>1, 6</damage>
+                <fire_actions>2</fire_actions>
+                <range>1</range>
+                <hands>1</hands>
+                <bulk>12</bulk>
+                <cost>3</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Matchlock Pistol
+                <damage>1, 6</damage>
+                <fire_actions>3</fire_actions>
+                <range>5</range>
+                <hands>2</hands>
+                <bulk>10</bulk>
+                <cost>50</cost>
+                <usage>1</usage>
+                <description></description>
+        </weapon>
+        <weapon>Metal Glove
+                <damage>1, 4</damage>
+                <fire_actions>0</fire_actions>
+                <range>0</range>
+                <hands>1</hands>
+                <bulk>1</bulk>
+                <cost>4</cost>
+                <usage>1</usage>
+                <description></description>
+        </weapon>
+        <weapon>Quarterstaff
+                <damage>1, 6</damage>
+                <fire_actions>2</fire_actions>
+                <range>1</range>
+                <hands>2</hands>
+                <bulk>8</bulk>
+                <cost>1</cost>
+                <usage>0</usage>
+                <description></description>
+        </weapon>
+        <weapon>Rapier
+                <damage>1, 6</damage>
+                <fire_actions>2</fire_actions>
+                <range>3</range>
+                <hands>1</hands>
+                <bulk>7</bulk>
+                <cost>20</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Scimitar
+                <damage>1, 8</damage>
+                <fire_actions>2</fire_actions>
+                <range>2</range>
+                <hands>1</hands>
+                <bulk>8</bulk>
+                <cost>15</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Short Sword
+                <damage>1, 6</damage>
+                <fire_actions>2</fire_actions>
+                <range>2</range>
+                <hands>1</hands>
+                <bulk>6</bulk>
+                <cost>8</cost>
+                <usage>1</usage>
+                <description></description>
+        </weapon>
+        <weapon>Sling
+                <damage>1, 4</damage>
+                <fire_actions>1</fire_actions>
+                <range>10</range>
+                <hands>2</hands>
+                <bulk>4</bulk>
+                <cost>2</cost>
+                <usage>0</usage>
+                <description></description>
+        </weapon>
+        <weapon>Spear
+                <damage>1, 6</damage>
+                <fire_actions>1</fire_actions>
+                <range>6</range>
+                <hands>1</hands>
+                <bulk>8</bulk>
+                <cost>1</cost>
+                <usage>1</usage>
+                <description></description>
+        </weapon>
+        <weapon>War Hammer
+                <damage>1, 8</damage>
+                <fire_actions>2</fire_actions>
+                <range>4</range>
+                <hands>1</hands>
+                <bulk>16</bulk>
+                <cost>5</cost>
+                <usage>2</usage>
+                <description></description>
+        </weapon>
+        <weapon>Wheel Lock
+                <damage>1, 8</damage>
+                <fire_actions>2</fire_actions>
+                <range>10</range>
+                <hands>2</hands>
+                <bulk>15</bulk>
+                <cost>150</cost>
+                <usage>0</usage>
+                <description></description>
+        </weapon>
+        <weapon>Wheel Lock Pistol
+                <damage>1, 6</damage>
+                <fire_actions>2</fire_actions>
+                <range>5</range>
+                <hands>2</hands>
+                <bulk>10</bulk>
+                <cost>100</cost>
+                <usage>0</usage>
+                <description></description>
+        </weapon>
+</weapons>

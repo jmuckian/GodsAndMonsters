@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<psychic_powers>
+        <type>Telepathic
+                <power>Catalyst
+                        <cost>2</cost>
+                </power>
+                <power>Domination
+                        <cost>4</cost>
+                </power>
+                <power>Empathy
+                        <cost>1</cost>
+                </power>
+                <power>Illusion
+                        <cost>3</cost>
+                </power>
+                <power>Telepathy
+                        <cost>2</cost>
+                </power>
+                <ability>Charisma</ability>
+                <save>Perception</save>
+        </type>
+        <type>Psychokinetic
+                <power>Pyrokinesis
+                        <cost>3</cost>
+                </power>
+                <power>Telekinesis
+                        <cost>2</cost>
+                </power>
+                <ability>Wisdom</ability>
+                <save>Fortitude</save>
+        </type>
+        <type>Spiritual
+                <power>Spirit Host
+                        <cost>3</cost>
+                </power>
+                <power>Spirit Summons
+                        <cost>4</cost>
+                </power>
+                <power>Spirit Travel
+                        <cost>3</cost>
+                </power>
+                <ability>Charisma</ability>
+                <save>Willpower</save>
+        </type>
+        <type>Corporeal
+                <power>Healing
+                        <cost>4</cost>
+                </power>
+                <power>Self-Control
+                        <cost>2</cost>
+                </power>
+                <power>Morphinesis
+                        <cost>3</cost>
+                </power>
+                <ability>Charisma</ability>
+                <save>Health</save>
+        </type>
+        <type>Dimensional
+                <power>Sensitive
+                        <cost>2</cost>
+                </power>
+                <power>Dimensional Shift
+                        <cost>4</cost>
+                </power>
+                <power>Temporal Shift
+                        <cost>5</cost>
+                </power>
+                <ability>Intelligence</ability>
+                <save>Evasion</save>
+        </type>
+</psychic_powers>
