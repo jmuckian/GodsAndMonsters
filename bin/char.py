@@ -46,6 +46,7 @@ class CreateCharacter:
         self.setmovement()
         self.setmojo()
         self.setname(screen)
+        # self.chooseskills(screen)
         
         
         self.sheet.printcharactersheet(self.chardata, self.screen)

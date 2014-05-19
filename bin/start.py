@@ -22,7 +22,7 @@ class Intro:
         bg = pygame.image.load(self.display.BG_TITLE).convert()
         self.screen.blit(bg, (0, 0))
         prompt = ["GODS & MONSTERS", "(C) 2007 G&M DEV TEAM",
-                  "BASED ON PEN & PAPER GAME", "CREATED BY JERRY STRATTON",
+                  "BASED ON THE PEN & PAPER GAME", "CREATED BY JERRY STRATTON",
                   "HTTP://WWW.GODSMONSTERS.COM"]
         row = 16
         col = 2
@@ -40,7 +40,7 @@ class Intro:
     def menu(self):
         bg = pygame.image.load(self.display.BG_FULL).convert()
         self.screen.blit(bg, (0, 0))
-        prompt = ["CREATE NEW CHARACTER", "NEW GAME", "QUIT GAME"]
+        prompt = ["CREATE NEW CHARACTER", "NEW GAME", "OPTIONS", "QUIT GAME"]
         row = 16
         col = 2            
         for line in prompt:
@@ -60,6 +60,8 @@ class Intro:
                 if event.key == K_c:
                     self.newcharacter()
                 if event.key == K_n:
+                    pass
+                if event.key == K_o:
                     pass
 
     def newcharacter(self):

@@ -1,7 +1,0 @@
-NOTES:
-
-Text is 40x25.  To accomodate a frame, text should begin at x = 16, y = 16 and
-should not be greater than 38 characters in length.  Rows begin at 0, where text
-begins at row 1.  To accomodate a frame, text may be between rows 1 and 22, with
-an additional command row at 24.  Rows 0 and 23, as well as columns 0 and 39 are
-frame area.

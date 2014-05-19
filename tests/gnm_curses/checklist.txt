@@ -1,9 +1,0 @@
-Checklist
-
-* = complete
-- = incomplete
-
-Rolling scores:
-
-- Roll 4d6 six times, throwing out lowest roll
-
