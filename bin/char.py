@@ -880,7 +880,9 @@ class NameGenerator:
         return namegrammar
                 
 class Skills:
-    
+    """
+    This section to be removed
+    """
     
     def __init__(self):
         self.gamedata = GameData()
